@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+<title id="title">GreenPro</title>
+<rect width="80" height="80" rx="8" fill="#eeece2"/>
+<g transform="translate(16 16)"><path fill="#4c5744" fill-rule="evenodd" clip-rule="evenodd" d="M4 14H18V4H44V30H30V44H4V14ZM10 20V38H24V32H18V24H38V10H24V20H10Z"/></g>
+</svg>
